@@ -1,0 +1,51 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="5EED6E2B-2EB4-EA11-8EBB-ACDE48001122" platform="MtMobile" defaultW="375" defaultH="667" measureW="375" measureH="667" screenOrientation="MoPortrait" mobileScreenScale="1.77777779102325">
+  <controls controlCount="5">
+    <control controlID="4A9644A4-1698-EA11-92EB-ACDE48001122" controlTypeID="Icon" x="16" y="36" w="18" h="18" zOrder="0">
+      <color>4278190080</color>
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="1E5E73D6-8397-EA11-92EB-ACDE48001122" linkType="ltPageLink" isApplyIncludePage="False" title="%E9%85%92%E5%BA%97%E8%AF%A6%E6%83%85%E9%A1%B5">
+          <area shape="0" alt="" ID="{5AA38009-3598-EA11-92EB-ACDE48001122}" coords="(0,0,18,18)"/>
+        </link>
+      </links>
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>62418</iconCode>
+      </icon>
+      <URL>91852B86E51F760894554368302F9800.svg</URL>
+    </control>
+    <control controlID="CC9644A4-1698-EA11-92EB-ACDE48001122" controlTypeID="Label" x="151" y="37" w="74" h="20" zOrder="1">
+      <font family=".AppleSystemUIFont" displayName=".AppleSystemUIFont" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>%E8%AF%A6%E6%83%85%C2%B7%E8%AE%BE%E6%96%BD</text>
+      <textSize>16</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="309744A4-1698-EA11-92EB-ACDE48001122" controlTypeID="Line" x="1" y="67" w="374" h="1" zOrder="2">
+      <color>4292335575</color>
+      <font family=".AppleSystemUIFont" displayName=".AppleSystemUIFont" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+      <controlPoint>(188,0)</controlPoint>
+      <startPoint>(1,0)</startPoint>
+      <endPoint>(374,0)</endPoint>
+    </control>
+    <control controlID="64C2D7A7-1698-EA11-92EB-ACDE48001122" controlTypeID="StatusBar(IOS)" x="0" y="0" w="375" h="20" zOrder="3"/>
+    <control controlID="AACF10C7-30B4-EA11-AD96-ACDE48001122" controlTypeID="Label" x="48" y="149" w="101" h="19" zOrder="4">
+      <font family=".AppleSystemUIFont" displayName=".AppleSystemUIFont" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Bahia+Catalina</text>
+      <textSize>16</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>0</fontSize>
+    <fontFamily/>
+    <guideLines/>
+  </param>
+</mockup>

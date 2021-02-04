@@ -1,0 +1,220 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="A294ADA0-7DBB-EA11-9F5C-ACDE48001122" platform="MtMobile" defaultW="375" defaultH="667" measureW="375" measureH="667" screenOrientation="MoPortrait" mobileScreenScale="1.77777779102325" clipArea="(0,0,0,0)">
+  <controls controlCount="27">
+    <control controlID="C6D188F1-3797-EA11-92EB-ACDE48001122" controlTypeID="StatusBar(IOS)" x="0" y="0" w="375" h="20" zOrder="0"/>
+    <control controlID="BA3EA427-3F97-EA11-92EB-ACDE48001122" controlTypeID="Icon" x="16" y="36" w="20" h="20" zOrder="1">
+      <color>4278190080</color>
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="80F6ABD7-3FC0-EA11-9F5C-ACDE48001122" linkType="ltPageLink" isApplyIncludePage="False" title="%E6%88%91%E5%8F%91%E5%B8%83%E7%9A%84">
+          <area shape="0" alt="" ID="{D8DCC807-69BB-EA11-9F5C-ACDE48001122}" coords="(0,0,20,20)"/>
+        </link>
+      </links>
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>62418</iconCode>
+      </icon>
+      <URL>91852B86E51F760894554368302F9800.svg</URL>
+    </control>
+    <control controlID="EE8DFCA6-7FBA-EA11-9F5C-ACDE48001122" controlTypeID="Label" x="151" y="39" w="74" h="21" zOrder="2">
+      <font family=".AppleSystemUIFont" displayName=".AppleSystemUIFont" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Removed</text>
+      <textSize>18</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="2E27E4AE-7FBA-EA11-9F5C-ACDE48001122" controlTypeID="Line" x="1" y="67" w="374" h="1" zOrder="3">
+      <color>4292335575</color>
+      <font family=".AppleSystemUIFont" displayName=".AppleSystemUIFont" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+      <controlPoint>(188,0)</controlPoint>
+      <startPoint>(1,0)</startPoint>
+      <endPoint>(374,0)</endPoint>
+    </control>
+    <control controlID="80F91CB5-7FBB-EA11-9F5C-ACDE48001122" controlTypeID="Shape" x="0" y="67" w="375" h="608" zOrder="4">
+      <color>4294111986</color>
+      <borderColor>4292335575</borderColor>
+      <borderVisible>False</borderVisible>
+      <font family=".AppleSystemUIFont" displayName=".AppleSystemUIFont" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="B2573E1C-80BB-EA11-9F5C-ACDE48001122" controlTypeID="__group__" x="-1" y="70" w="376" h="168" zOrder="5">
+      <groupChildrenDescriptors>
+        <control controlID="34583E1C-80BB-EA11-9F5C-ACDE48001122" controlTypeID="Shape" x="1" y="0" w="375" h="168" zOrder="0">
+          <borderVisible>False</borderVisible>
+          <font family=".AppleSystemUIFont" displayName=".AppleSystemUIFont" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <textSize>14</textSize>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="C0583E1C-80BB-EA11-9F5C-ACDE48001122" controlTypeID="Shape" x="18" y="15" w="80" h="80" zOrder="1">
+          <color>4292335575</color>
+          <borderVisible>False</borderVisible>
+          <font family=".AppleSystemUIFont" displayName=".AppleSystemUIFont" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+          <text>image</text>
+          <selectedIndex>-1</selectedIndex>
+          <radius>8</radius>
+        </control>
+        <control controlID="6A593E1C-80BB-EA11-9F5C-ACDE48001122" controlTypeID="Label" x="108" y="23" w="115" h="17" zOrder="2">
+          <font family=".AppleSystemUIFont" displayName=".AppleSystemUIFont" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>Product+name+......</text>
+          <lineSpacing>0</lineSpacing>
+          <useDefaultTextSize>False</useDefaultTextSize>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="1E5A3E1C-80BB-EA11-9F5C-ACDE48001122" controlTypeID="Label" x="108" y="65" w="41" h="19" zOrder="3">
+          <font family=".AppleSystemUIFont" displayName=".AppleSystemUIFont" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False"/>
+          <text>100+$</text>
+          <textSize>15</textSize>
+          <lineSpacing>0</lineSpacing>
+          <textStyles>[fsBold]</textStyles>
+          <useDefaultTextSize>False</useDefaultTextSize>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="D25A3E1C-80BB-EA11-9F5C-ACDE48001122" controlTypeID="Label" x="340" y="67" w="26" h="16" zOrder="4">
+          <font family=".AppleSystemUIFont" displayName=".AppleSystemUIFont" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>x+1+++</text>
+          <textColor>4287006342</textColor>
+          <textSize>13</textSize>
+          <lineSpacing>0</lineSpacing>
+          <useDefaultTextSize>False</useDefaultTextSize>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="987D2EC5-80BB-EA11-9F5C-ACDE48001122" controlTypeID="Line" x="0" y="127" w="374" h="1" zOrder="5">
+          <color>4292335575</color>
+          <font family=".AppleSystemUIFont" displayName=".AppleSystemUIFont" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <textSize>14</textSize>
+          <lineSpacing>0</lineSpacing>
+          <selectedIndex>-1</selectedIndex>
+          <controlPoint>(188,0)</controlPoint>
+          <startPoint>(1,0)</startPoint>
+          <endPoint>(374,0)</endPoint>
+        </control>
+        <control controlID="B4E1891A-2CBC-EA11-9F5C-ACDE48001122" controlTypeID="Label" x="180" y="100" w="194" h="19" zOrder="6">
+          <font family=".AppleSystemUIFont" displayName=".AppleSystemUIFont" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>Total%EF%BC%9A+120$%EF%BC%88Freight%EF%BC%9A20$%EF%BC%89</text>
+          <lineSpacing>0</lineSpacing>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="F666EBA5-2CBC-EA11-9F5C-ACDE48001122" controlTypeID="Button" x="300" y="134" w="66" h="26" zOrder="7">
+          <color>4284900966</color>
+          <borderVisible>False</borderVisible>
+          <font family=".AppleSystemUIFont" displayName=".AppleSystemUIFont" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+          <text>Republish</text>
+          <textColor>4294967295</textColor>
+          <textSize>12</textSize>
+          <lineSpacing>0</lineSpacing>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="54A80AFB-2CBC-EA11-9F5C-ACDE48001122" controlTypeID="Icon" x="18" y="138" w="18" h="18" zOrder="8">
+          <icon>
+            <ID/>
+            <iconFontName>jdIonicons</iconFontName>
+            <iconCode>62358</iconCode>
+          </icon>
+          <URL>24AC6E9D0DB95CFF2CF4AFB878AB46D7.svg</URL>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="FAF936D5-48C0-EA11-9F5C-ACDE48001122" controlTypeID="__group__" x="-1" y="246" w="376" h="168" zOrder="6">
+      <groupChildrenDescriptors>
+        <control controlID="72FA36D5-48C0-EA11-9F5C-ACDE48001122" controlTypeID="Shape" x="1" y="0" w="375" h="168" zOrder="0">
+          <borderVisible>False</borderVisible>
+          <font family=".AppleSystemUIFont" displayName=".AppleSystemUIFont" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <textSize>14</textSize>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="C2FA36D5-48C0-EA11-9F5C-ACDE48001122" controlTypeID="Shape" x="18" y="15" w="80" h="80" zOrder="1">
+          <color>4292335575</color>
+          <borderVisible>False</borderVisible>
+          <font family=".AppleSystemUIFont" displayName=".AppleSystemUIFont" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+          <text>image</text>
+          <selectedIndex>-1</selectedIndex>
+          <radius>8</radius>
+        </control>
+        <control controlID="12FB36D5-48C0-EA11-9F5C-ACDE48001122" controlTypeID="Label" x="108" y="23" w="115" h="17" zOrder="2">
+          <font family=".AppleSystemUIFont" displayName=".AppleSystemUIFont" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>Product+name+......</text>
+          <lineSpacing>0</lineSpacing>
+          <useDefaultTextSize>False</useDefaultTextSize>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="6CFB36D5-48C0-EA11-9F5C-ACDE48001122" controlTypeID="Label" x="108" y="65" w="41" h="19" zOrder="3">
+          <font family=".AppleSystemUIFont" displayName=".AppleSystemUIFont" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False"/>
+          <text>100+$</text>
+          <textSize>15</textSize>
+          <lineSpacing>0</lineSpacing>
+          <textStyles>[fsBold]</textStyles>
+          <useDefaultTextSize>False</useDefaultTextSize>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="BCFB36D5-48C0-EA11-9F5C-ACDE48001122" controlTypeID="Label" x="340" y="67" w="26" h="16" zOrder="4">
+          <font family=".AppleSystemUIFont" displayName=".AppleSystemUIFont" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>x+1+++</text>
+          <textColor>4287006342</textColor>
+          <textSize>13</textSize>
+          <lineSpacing>0</lineSpacing>
+          <useDefaultTextSize>False</useDefaultTextSize>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="0CFC36D5-48C0-EA11-9F5C-ACDE48001122" controlTypeID="Line" x="0" y="127" w="374" h="1" zOrder="5">
+          <color>4292335575</color>
+          <font family=".AppleSystemUIFont" displayName=".AppleSystemUIFont" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <textSize>14</textSize>
+          <lineSpacing>0</lineSpacing>
+          <selectedIndex>-1</selectedIndex>
+          <controlPoint>(188,0)</controlPoint>
+          <startPoint>(1,0)</startPoint>
+          <endPoint>(374,0)</endPoint>
+        </control>
+        <control controlID="5CFC36D5-48C0-EA11-9F5C-ACDE48001122" controlTypeID="Label" x="180" y="100" w="194" h="19" zOrder="6">
+          <font family=".AppleSystemUIFont" displayName=".AppleSystemUIFont" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>Total%EF%BC%9A+120$%EF%BC%88Freight%EF%BC%9A20$%EF%BC%89</text>
+          <lineSpacing>0</lineSpacing>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="B6FC36D5-48C0-EA11-9F5C-ACDE48001122" controlTypeID="Button" x="306" y="134" w="60" h="26" zOrder="7">
+          <color>4284900966</color>
+          <borderVisible>False</borderVisible>
+          <font family=".AppleSystemUIFont" displayName=".AppleSystemUIFont" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+          <text>Republish</text>
+          <textColor>4294967295</textColor>
+          <textSize>12</textSize>
+          <lineSpacing>0</lineSpacing>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="10FD36D5-48C0-EA11-9F5C-ACDE48001122" controlTypeID="Icon" x="18" y="138" w="18" h="18" zOrder="8">
+          <icon>
+            <ID/>
+            <iconFontName>jdIonicons</iconFontName>
+            <iconCode>62358</iconCode>
+          </icon>
+          <URL>24AC6E9D0DB95CFF2CF4AFB878AB46D7.svg</URL>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="101B222B-49C0-EA11-9F5C-ACDE48001122" controlTypeID="Shape" x="16" y="226" w="83" h="35" zOrder="7">
+      <color>4281742902</color>
+      <borderVisible>False</borderVisible>
+      <font family=".AppleSystemUIFont" displayName=".AppleSystemUIFont" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <selectedIndex>-1</selectedIndex>
+      <radius>4</radius>
+    </control>
+    <control controlID="00302447-49C0-EA11-9F5C-ACDE48001122" controlTypeID="Label" x="26" y="233" w="41" h="17" zOrder="8">
+      <font family=".AppleSystemUIFont" displayName=".AppleSystemUIFont" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Delete</text>
+      <textColor>4294967295</textColor>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>0</fontSize>
+    <fontFamily/>
+    <guideLines/>
+  </param>
+</mockup>

@@ -1,0 +1,107 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="00F3C121-EB97-EA11-92EB-ACDE48001122" platform="MtMobile" defaultW="375" defaultH="667" measureW="375" measureH="667" screenOrientation="MoPortrait" mobileScreenScale="1.77777779102325" clipArea="(0,0,0,0)">
+  <controls controlCount="14">
+    <control controlID="18A0D02B-DC9B-EA11-B635-A683E7AA4DAA" controlTypeID="Image" x="0" y="21" w="374" h="599" zOrder="0">
+      <URL>01B598B30BE38B14C8C9A34B02D2F00B.png</URL>
+    </control>
+    <control controlID="467A5AFC-FA97-EA11-92EB-ACDE48001122" controlTypeID="StatusBar(IOS)" x="0" y="0" w="375" h="20" zOrder="1"/>
+    <control controlID="B00725C4-FD97-EA11-92EB-ACDE48001122" controlTypeID="Image" x="131" y="210" w="65" h="62" zOrder="2">
+      <URL>BDA61AB6A4CC12028F5B922498F1177B.jpg</URL>
+    </control>
+    <control controlID="A6BDE0D9-FD97-EA11-92EB-ACDE48001122" controlTypeID="Circle" x="160" y="268" w="8" h="8" zOrder="3">
+      <color>4284900966</color>
+      <borderVisible>False</borderVisible>
+      <font family=".AppleSystemUIFont" displayName=".AppleSystemUIFont" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <textColor>4283519313</textColor>
+      <textSize>14</textSize>
+      <selectedIndex>-1</selectedIndex>
+      <shapeBorderType>SbEllipse</shapeBorderType>
+      <thickness>4</thickness>
+    </control>
+    <control controlID="780B1710-FE97-EA11-92EB-ACDE48001122" controlTypeID="Icon" x="152" y="226" w="24" h="24" zOrder="4">
+      <color>4294967295</color>
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>62351</iconCode>
+      </icon>
+      <URL>00B95EF219967F400695DB20B0044ACF.svg</URL>
+    </control>
+    <control controlID="E0871127-FE97-EA11-92EB-ACDE48001122" controlTypeID="Icon" x="13" y="33" w="22" h="22" zOrder="5">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="324480D1-E09C-EA11-B635-A683E7AA4DAA" linkType="ltPageLink" isApplyIncludePage="False" title="%E9%85%92%E5%BA%97%E8%AF%A6%E6%83%85%E9%A1%B5">
+          <area shape="0" alt="" ID="{78D435D3-3498-EA11-92EB-ACDE48001122}" coords="(0,0,22,22)"/>
+        </link>
+      </links>
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>62318</iconCode>
+      </icon>
+      <URL>DB7FC814F441C17601BBA7EA29C0CC4C.svg</URL>
+    </control>
+    <control controlID="5226E7E5-FE97-EA11-92EB-ACDE48001122" controlTypeID="Shape" x="0" y="538" w="375" h="64" zOrder="6">
+      <color>4289638062</color>
+      <borderVisible>False</borderVisible>
+      <opacity>0.600000023841858</opacity>
+      <font family=".AppleSystemUIFont" displayName=".AppleSystemUIFont" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <selectedIndex>-1</selectedIndex>
+      <radius>12</radius>
+    </control>
+    <control controlID="689E18C2-FE97-EA11-92EB-ACDE48001122" controlTypeID="__group__" x="0" y="546" w="375" h="121" zOrder="7">
+      <groupChildrenDescriptors>
+        <control controlID="3E47D374-FE97-EA11-92EB-ACDE48001122" controlTypeID="Shape" x="0" y="0" w="375" h="97" zOrder="0">
+          <borderVisible>False</borderVisible>
+          <font family=".AppleSystemUIFont" displayName=".AppleSystemUIFont" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <textSize>14</textSize>
+          <selectedIndex>-1</selectedIndex>
+          <radius>12</radius>
+        </control>
+        <control controlID="A447BCB6-FE97-EA11-92EB-ACDE48001122" controlTypeID="Shape" x="0" y="44" w="375" h="77" zOrder="1">
+          <borderVisible>False</borderVisible>
+          <font family=".AppleSystemUIFont" displayName=".AppleSystemUIFont" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <textSize>14</textSize>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="24186BE7-1498-EA11-92EB-ACDE48001122" controlTypeID="Label" x="20" y="571" w="123" h="21" zOrder="8">
+      <font family=".AppleSystemUIFont" displayName=".AppleSystemUIFont" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False"/>
+      <text>Bahia+Catalina</text>
+      <textSize>18</textSize>
+      <lineSpacing>0</lineSpacing>
+      <textStyles>[fsBold]</textStyles>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="A6186BE7-1498-EA11-92EB-ACDE48001122" controlTypeID="Label" x="20" y="610" w="242" h="15" zOrder="9">
+      <font family=".AppleSystemUIFont" displayName=".AppleSystemUIFont" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Carretera+Austral+Sur+km+265%EF%BC%8CAldana+Chile</text>
+      <textColor>4286151033</textColor>
+      <textSize>12</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="9429C94B-DC9B-EA11-B635-A683E7AA4DAA" controlTypeID="Shape" x="291" y="36" w="84" h="56" zOrder="10">
+      <color>4293847265</color>
+      <borderVisible>False</borderVisible>
+      <font family=".AppleSystemUIFont" displayName=".AppleSystemUIFont" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="B4C8E056-DC9B-EA11-B635-A683E7AA4DAA" controlTypeID="Shape" x="259" y="442" w="106" h="48" zOrder="11">
+      <color>4293847265</color>
+      <borderVisible>False</borderVisible>
+      <font family=".AppleSystemUIFont" displayName=".AppleSystemUIFont" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>0</fontSize>
+    <fontFamily/>
+    <guideLines/>
+  </param>
+</mockup>
